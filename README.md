@@ -13,7 +13,7 @@ problem-solving, and cybersecurity. Passionate about programming and driven by w
   <a href="https://www.facebook.com/seif.eldeen.mohamed.286817"><img src="https://img.shields.io/badge/facebook-%233B5998.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
 
-## <p><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtd2E4aXlwd3JiaXA2aXZzMDRhMm1yNTlvemgzMWoxc2Z5aGZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQcRoaFkhqYhf4e3hn/giphy.gif" width="90"> </p>
+## <p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtd2E4aXlwd3JiaXA2aXZzMDRhMm1yNTlvemgzMWoxc2Z5aGZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQcRoaFkhqYhf4e3hn/giphy.gif" width="90"> </p>
 <p align="center">Tech Knowledge</p>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
