@@ -1,7 +1,8 @@
 <img src="github-banner.svg" alt="Header" width="100%" height="100%">
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> PROFESSIONAL SUMMARY 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+<img align='right'
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHRrbGQ5cmVxZGF0ODhxOTBobXc1b295a2NrMXJvdHB3bG53MDA3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LtlTC8QmKhEIL98Km/giphy.gif" width="200">
 <p> A highly motivated Computer and Information student with a strong interest in design,
 problem-solving, and cybersecurity. Passionate about programming and driven by working in collaborative environments that enhance communication, innovation, and teamwork. I am motivated, disciplined, and able to work effectively within a team, with a strong desire to grow as a junior developer and contribute to real-world projects while continuously learning and improving.
 </p> <br><br>
