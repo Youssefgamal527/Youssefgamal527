@@ -1,81 +1,68 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b894&height=280&section=header&text=Youssef%20Gamal&fontSize=80&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer&descAlignY=52&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=00b894&height=250&section=header&text=YOUSSEF%20GAMAL&fontSize=80&animation=fadeIn&fontAlignY=40&desc=Machine%20Learning%20Engineer&descAlignY=55&descAlign=50" width="100%" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Imagine--Cup--2026-Competitor-brightgreen?style=for-the-badge&logo=microsoft" />
-    <img src="https://img.shields.io/badge/Trackly--Dev-Active-blue?style=for-the-badge&logo=nestJS" />
-    <img src="https://img.shields.io/badge/Linux--Power-User-orange?style=for-the-badge&logo=linux" />
-  </p>
+  <br>
+
+  <a href="https://www.linkedin.com/in/youssef-gamal-510030402"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:youssefgamalmowafy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/201093569285"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 ---
 
-### 🚀 Quick Glimpse
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Professional Summary
+
+<p align="justify">
+I am a <b>Machine Learning Engineer</b> with a strong foundation in data analysis and predictive modeling using Python. I have hands-on experience working with libraries such as <b>NumPy, Pandas, Matplotlib, and Seaborn</b>. 
+<br><br>
+I have implemented various Machine Learning algorithms including <b>Linear Regression, Logistic Regression, SVM, KNN, Decision Trees, Random Forest, and Ensemble methods</b>. I also have foundational knowledge in Deep Learning (<b>ANN, DNN, CNN</b>).
+<br><br>
+One of my key projects is working on the <b>WeatherAUS dataset</b> to build a rain prediction model, where I applied data preprocessing, feature engineering, and model evaluation techniques. Currently, I am a competitor in <b>Microsoft Imagine Cup 2026</b> and seeking impactful projects in Machine Learning.
+</p>
+
+---
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNtd2E4aXlwd3JiaXA2aXZzMDRhMm1yNTlvemgzMWoxc2Z5aGZwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQcRoaFkhqYhf4e3hn/giphy.gif" width="30"> Tech Arsenal
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefGamalMowafy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b894" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YoussefGamalMowafy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b894&count_private=true" width="52%" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,postgres,linux,git,github,vscode,docker,html,css,js&perline=6" />
 </div>
 
 ---
 
-### 🧬 Professional DNA
-> **I am a Machine Learning Engineer specializing in transforming complex data into predictive intelligence.** > My expertise spans from building scalable Data Pipelines to deploying Deep Learning models (CNN, ANN). I thrive on challenges like the **WeatherAUS** prediction model and competing in global arenas like **Microsoft Imagine Cup**.
-
----
-
-### 🛠️ The Tech Arsenal
-<table align="center" style="border: none;">
-  <tr>
-    <td align="left" valign="top" width="33%">
-      <b>🧠 AI & Machine Learning</b><br>
-      • Scikit-learn<br>
-      • Pandas / NumPy<br>
-      • Matplotlib / Seaborn<br>
-      • TensorFlow / ANN / CNN
-    </td>
-    <td align="left" valign="top" width="33%">
-      <b>💻 Engineering</b><br>
-      • Python 3 (Expert)<br>
-      • C++ / Java<br>
-      • PostgreSQL / SQL<br>
-      • Linux / Shell Scripting
-    </td>
-    <td align="left" valign="top" width="33%">
-      <b>📦 Tools & DevOps</b><br>
-      • Git / GitHub<br>
-      • Docker / VS Code<br>
-      • System Analysis<br>
-      • Project Planning (Waterfall)
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 GitHub Trophies (The "I Want This" Part)
+### <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa273-39fc-4a92-96ee-866749415f37.gif" width="30"> GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YoussefGamalMowafy&theme=tokyonight&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=YoussefGamalMowafy&theme=tokyonight&no-bg=true&margin-w=15&column=4" width="100%" />
   </a>
 </p>
 
 ---
 
-### 📈 Activity & Growth
+### <img src="https://user-images.githubusercontent.com/74038190/212284158-e5f11812-e36e-44fd-813b-da8a1768686e.gif" width="30"> Analytical Overview
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefGamalMowafy&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b894&icon_color=00b894&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefGamalMowafy&layout=compact&theme=tokyonight&hide_border=true&title_color=00b894&icon_color=00b894" width="40%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefGamalMowafy&theme=tokyonight&hide_border=true&stroke=00b894&ring=00b894&fire=00b894" width="90%" />
+</div>
+
+---
+
+### <img src="https://user-images.githubusercontent.com/74038190/212284451-9f9394aa-7132-4752-959c-882894165C7C.gif" width="30"> Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefGamalMowafy&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefGamalMowafy&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-### 🤝 Let's Architect the Future
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-gamal-510030402"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:youssefgamalmowafy@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://wa.me/201093569285"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=YoussefGamalMowafy&color=00b894&style=flat-square&label=PROFILE+VIEWS" />
+  <br>
+  <b>Building the future with Intelligence 🚀</b>
 </div>
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YoussefGamalMowafy&color=00b894&style=flat-square&label=VISITORS+COUNT" />
-</p>
