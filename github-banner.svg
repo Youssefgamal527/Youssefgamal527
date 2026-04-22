@@ -1,99 +1,46 @@
 <svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg">
 
-<style>
-
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
-
-text {
-  font-family: 'Poppins', sans-serif;
-}
-
-/* Glow effect */
-.glow {
-  filter: drop-shadow(0 0 6px #19c7a2);
-}
-
-/* Moving squares */
-.square {
-  fill: #19c7a2;
-  animation: float 4s ease-in-out infinite;
-}
-.square:nth-child(2){ animation-delay: 1s }
-.square:nth-child(3){ animation-delay: 2s }
-
-@keyframes float {
-  0%,100% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-}
-
-/* Typing animation */
-.typing {
-  overflow: hidden;
-  white-space: nowrap;
-  animation: typing 3s steps(30, end) forwards;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* Line animation */
-.line {
-  stroke: #19c7a2;
-  stroke-width: 2;
-  stroke-dasharray: 100;
-  stroke-dashoffset: 100;
-  animation: draw 3s linear forwards;
-}
-
-@keyframes draw {
-  to { stroke-dashoffset: 0; }
-}
-
-</style>
-
 <!-- Background -->
 <rect width="900" height="250" fill="#19c7a2"/>
 
 <!-- Black card -->
 <rect x="40" y="40" width="820" height="170" rx="15" fill="#000"/>
 
-<!-- Animated squares -->
-<g>
-  <rect class="square" x="100" y="80" width="20" height="20"/>
-  <rect class="square" x="130" y="110" width="20" height="20"/>
-  <rect class="square" x="160" y="90" width="20" height="20"/>
+<!-- Squares -->
+<g fill="#19c7a2">
+  <rect x="100" y="80" width="20" height="20"/>
+  <rect x="130" y="110" width="20" height="20"/>
+  <rect x="160" y="90" width="20" height="20"/>
 
-  <rect class="square" x="700" y="80" width="20" height="20"/>
-  <rect class="square" x="730" y="110" width="20" height="20"/>
-  <rect class="square" x="760" y="90" width="20" height="20"/>
+  <rect x="700" y="80" width="20" height="20"/>
+  <rect x="730" y="110" width="20" height="20"/>
+  <rect x="760" y="90" width="20" height="20"/>
 </g>
 
-<!-- Animated lines -->
-<line class="line" x1="300" y1="80" x2="600" y2="80"/>
-<line class="line" x1="300" y1="170" x2="600" y2="170"/>
+<!-- Lines -->
+<line x1="300" y1="80" x2="600" y2="80" stroke="#19c7a2" stroke-width="2"/>
+<line x1="300" y1="170" x2="600" y2="170" stroke="#19c7a2" stroke-width="2"/>
 
 <!-- Title -->
-<text x="450" y="110" text-anchor="middle" fill="#ffffff" font-size="30">
+<text x="450" y="110" text-anchor="middle" fill="#ffffff" font-size="30" font-family="Arial">
   Build your
 </text>
 
-<text x="450" y="150" text-anchor="middle" fill="#19c7a2" font-size="36" font-weight="600" class="glow">
+<text x="450" y="150" text-anchor="middle" fill="#19c7a2" font-size="36" font-weight="bold" font-family="Arial">
   Machine Learning Career.
 </text>
 
 <!-- Contact -->
-<text x="120" y="190" fill="#ffffff" font-size="14">
-  📞 +201093569285
+<text x="120" y="190" fill="#ffffff" font-size="14" font-family="Arial">
+   📞 +201093569285
 </text>
 
-<text x="350" y="190" fill="#ffffff" font-size="14">
+<text x="350" y="190" fill="#ffffff" font-size="14" font-family="Arial">
   ✉ youssefgamalmowafy@gmail.com
 </text>
 
-<text x="650" y="190" fill="#ffffff" font-size="14">
-  🌐 linkedin.com/in/youssef-gamal-510030402
+<text x="650" y="190" fill="#ffffff" font-size="14" font-family="Arial">
+ 🌐 linkedin.com/in/youssef-gamal-510030402
 </text>
 
 </svg>
