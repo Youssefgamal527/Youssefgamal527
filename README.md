@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?user=Youssefgamal527&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
 ## I'm **Youssef Gamal**, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
