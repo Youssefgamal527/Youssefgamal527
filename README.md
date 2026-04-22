@@ -1,81 +1,49 @@
-# Hey! Nice to see you 👋
+# 👋 Hey! Nice to see you.
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?user=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+</p>
 
----
+## I'm **Your Name**, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
 
-## 🚀 About Me
+### 🚀 About Me
+- 🎓 B.Sc. in Computer Science from Menoufia University (Expected 2028)
+- 💡 Built 10+ production-grade ML projects across various domains
+- 🏆 Competitions: Microsoft Imagine Cup 2026
 
-I'm **Mohamed Zahran**, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
+### 🛠 Technologies & Tools
 
-- 🎓 B.Sc. in Mechatronics Engineering from Minufiya University (2025)
-- 🤖 AI/ML Intern at Sprint & Microsoft Collaboration
-- 💡 Built 10+ production-grade ML projects
-- 🏆 Competitions: Digitopia 2025 & Creativa Innovation Hub 2025
+#### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
+#### Data Science & Visualization
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🛠️ Technologies & Tools
+### 🏆 Featured Projects
 
-### Machine Learning & AI
-Python, TensorFlow, Keras, PyTorch, Scikit-learn, XGBoost, Hugging Face, LangChain
+| 🎁 Project | 🧪 Tech Stack | ⭐ Highlights |
+| :--- | :--- | :--- |
+| [Customer Churn Prediction](#) | XGBoost, FastAPI | 94% accuracy with ensemble methods |
+| [House Price Prediction](#) | Flask, Scikit-learn | Full-stack web app with custom UI |
 
-### NLP
-NLTK, SpaCy, Transformers, BERT, GPT, Whisper
+### 📊 GitHub Statistics
 
-### Computer Vision
-OpenCV, CNN, YOLO
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  
+  <br>
 
-### Data Science
-Pandas, NumPy, Matplotlib, Seaborn, Power BI
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
 
-### MLOps & Deployment
-FastAPI, Streamlit, Flask, Docker, MLflow, Git, GitHub
+  <br>
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-## 🏆 Featured Projects
-
-| Project | Tech Stack | Highlights |
-|----------|------------|------------|
-| Customer Churn Prediction | XGBoost, FastAPI | 94% accuracy + API deployment |
-| House Price Prediction | Flask, Sklearn | Full-stack ML app |
-| Breast Cancer Detection | Logistic Regression | Medical ML system |
-| Fashion MNIST CNN | TensorFlow | Image classification |
-
----
-
-## 💼 Experience
-
-### AI/ML Intern - Sprint & Microsoft (2025)
-- Built ML pipelines on 100K+ records
-- Deployed FastAPI & Streamlit apps
-- Created Power BI dashboards
-
----
-
-## 🎯 Core Skills
-- Machine Learning & Deep Learning  
-- NLP & LLMs  
-- Computer Vision  
-- MLOps & Deployment  
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your@email.com  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-💡 *"Turning data into intelligence, one model at a time"*
+<p align="center">
+  <i>"Turning data into intelligence, one model at a time"</i>
+</p>
