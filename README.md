@@ -4,45 +4,40 @@
   <img src="https://komarev.com/ghpvc/?user=Youssefgamal527&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
 </p>
 
-## I'm **Youssef Gamal**, AI & Machine Learning Engineer | End-to-End ML & MLOps | LLMs & Production Systems.
+## I'm **Youssef Gamal**, AI & Machine Learning Student | End-to-End ML & MLOps | LLMs & Production Systems.
 
 ### 🚀 About Me
-- 🎓 B.Sc. in Computer Science from Menoufia University (Expected 2028)
-- 💡 Built 10+ production-grade ML projects across various domains
-- 🏆 Competitions: Microsoft Imagine Cup 2026
+- 🎓 CS Student at **Menoufia University** (Expected 2028).
+- 💡 Founder of **"Answer quickly"** academic support community.
+- 🛠 Developed **Trackly**: An AI-powered career guidance platform.
+- 🏆 Competitor in **Microsoft Imagine Cup 2026**.
+- 🐧 Linux Enthusiast (Mint, Ubuntu, CentOS).
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssefgamal527&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefgamal527&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefgamal527&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+---
 
 ### 🛠 Technologies & Tools
 
 #### Machine Learning & AI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-#### Data Science & Visualization
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-### 🏆 Featured Projects
-
-| 🎁 Project | 🧪 Tech Stack | ⭐ Highlights |
-| :--- | :--- | :--- |
-| [Customer Churn Prediction](#) | XGBoost, FastAPI | 94% accuracy with ensemble methods |
-| [House Price Prediction](#) | Flask, Scikit-learn | Full-stack web app with custom UI |
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssefgamal527&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefgamal527&theme=radical" alt="GitHub Streak" />
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefgamal527&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+#### Development & Cloud
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <p align="center">
   <i>"Turning data into intelligence, one model at a time"</i>
