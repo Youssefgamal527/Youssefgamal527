@@ -1,7 +1,7 @@
 # 👋 Hey! Nice to see you.
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?user=Youssefgamal527&label=Profile%20Views&color=ff69b4&style=flat" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoussefgamal527&count_bg=%23E91E63&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 ## I'm **Youssef Gamal**, AI & Machine Learning Student | End-to-End ML & MLOps | LLMs & Production Systems.
@@ -18,11 +18,11 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssefgamal527&show_icons=true&theme=radical" alt="Youssef's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssefgamal527&show_icons=true&theme=radical&rank_icon=github" alt="Youssef's GitHub Stats" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssefgamal527&theme=radical" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefgamal527&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssefgamal527&layout=compact&theme=radical&hide_progress=false" alt="Top Langs" />
 </p>
 
 ---
