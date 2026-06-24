@@ -57,7 +57,7 @@
 |  Project |  Tech Stack |  Highlights |
 | :--- | :--- | :--- |
 | [Trackly AI](#) | Next.js, NestJS, OpenAI | AI Career Guidance System |
-| [Customer Churn Prediction](#) | XGBoost, FastAPI | 94% accuracy with ensemble methods |
+| [https://rawdaelsayed123-telco-churn-ai-project.hf.space/](#) | XGBoost, FastAPI | 94% accuracy with ensemble methods |
 | [House Price Prediction](#) | Flask, Scikit-learn | Full-stack web app with model comparison |
 
 ####  Deep Learning Projects
